@@ -1,0 +1,4 @@
+torch>=2.0
+gmsh>=4.11  # only for gmsh_plate_mesh.py
+numpy
+matplotlib  # only for --plot
